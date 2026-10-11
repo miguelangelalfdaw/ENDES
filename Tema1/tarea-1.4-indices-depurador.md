@@ -2,7 +2,7 @@
 
 ## Tarea 1.4. índices de los lenguajes de programación. Depurador
 
-## >**1. Observa todos los índices de los lenguajes de programación más usados**
+## **1. Observa todos los índices de los lenguajes de programación más usados**
 
 
    ### - **1.1 ¿Por qué crees que es importante conocer estos índices?**
@@ -26,7 +26,7 @@
 
 <br>
 
-## > **2.  Utilidad de un depurador/debugger**
+## **2.  Utilidad de un depurador/debugger**
 
    - Un **depurador** (debugger) es una herramienta específica facilitada por los Entornos de Desarrollo Integrados (EDIs) diseñada fundamentalmente para la detección, verificación y corrección de errores, especialmente los errores lógicos y de ejecución.
 
@@ -40,7 +40,7 @@
 
 <br>
 
-## > **3. Punto de ruptura en un depurador. Indica qué es y qué permite hacer**
+## **3. Punto de ruptura en un depurador. Indica qué es y qué permite hacer**
 
    - **¿Qué es?**
 
